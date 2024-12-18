@@ -1,9 +1,9 @@
 # sorting_algorithm_visualizer
 
 A Simple Sorting Algorithms Visualizer featuring some popular ones. Currently:
-– Bubble Sort
-– Insertion Sort
-– Quick Sort
+* Bubble Sort
+* Insertion Sort
+* Quick Sort
 
 ## Usage
 ```bash
